@@ -2,7 +2,7 @@
 
 Submitted by: **Raunaq Malhotra**
 
-**Let's Hund** is a fun app which you can use to perform a virtual scavenger hunt! Just click on one of the prompts in the task list and attach a photo corresponding to that prompt. You just completed the scavenger hunt! Yay!!!
+**Let's Hunt** is a fun app which you can use to perform a virtual scavenger hunt! Just click on one of the prompts in the task list and attach a photo corresponding to that prompt. You just completed the scavenger hunt for that task! Yay!!!
 
 Time spent: **4** hours spent in total
 
